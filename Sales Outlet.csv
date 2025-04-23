@@ -1,0 +1,10 @@
+Sales_Outlet_Id,Sales_Outlet_Type,Store_Square_Feet,Store_Address,Store_City,Store_State_Province,Store_Telephone,Store_Postal_Code,Store_Longitude,Store_Latitude,Neighorhood
+2,warehouse,3400,164-14 Jamaica Ave,New York,NY,972-871-0402,11432,-73.795168,40.705226,Jamaica
+3,retail,1300,32-20 Broadway,Long Island City,NY,777-718-3190,11106,-73.924008,40.761196,Astoria
+4,retail,1300,604 Union Street,Brooklyn,NY,619-347-5193,11215,-73.983984,40.677645,Gowanus
+5,retail,900,100 Church Street,New York,NY,343-212-5151,10007,-74.01013,40.71329,Lower Manhattan
+6,retail,1000,122 E Broadway,New York,NY,613-555-4989,10002,-73.992687,40.713852,Lower East Side
+7,retail,1200,224 E 57th Street,New York,NY,287-817-2330,10021,-73.96,40.77,Upper East Side
+8,retail,1500,687 9th Avenue,New York,NY,652-212-7020,10036,-73.990338,40.761887,Hell's Kitchen
+9,retail,1700,175 8th Avenue,New York,NY,242-212-0080,10011,-74.000502,40.74276,Chelsea
+10,retail,1600,183 W 10th Street,New York,NY,674-646-6434,10014,-74.002722,40.734367,Greenwich Village
